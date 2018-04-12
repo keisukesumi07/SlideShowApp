@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     Handler mHandler;
     Timer mTimer;
     Boolean play=true;
+    
 
     Button mStartButton,nextButton,prevButton;
     @Override
